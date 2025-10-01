@@ -37,7 +37,7 @@ function MovieList() {
 
     return (
         <>
-            <div>
+            <div className="container">
 
                 {/* Tag select per scegliere il genere del film da selezionare*/}
                 <select
